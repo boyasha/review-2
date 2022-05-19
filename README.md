@@ -3,7 +3,7 @@
 ```commandline
     git clone git@github.com:boyasha/review-2.git
     cd review-2
-    "Вставить токен Вашего бота в переменную token файла confi.py"
+    "Вставить токен Вашего бота в переменную token файла config.py"
     ./run_bot.sh
 ```
 
